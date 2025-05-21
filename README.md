@@ -1,4 +1,4 @@
-`**📚 Intelligent Legal Document Assistant (RAG + LLM)**`
+**📚 Intelligent Legal Document Assistant (RAG + LLM)**
 
 A GenAI-powered assistant that answers legal questions from uploaded PDF contracts or legal website/blog URLs using Retrieval-Augmented Generation (RAG) and LLMs.
 
