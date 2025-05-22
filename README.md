@@ -82,7 +82,12 @@ A GenAI-powered legal Q\&A assistant that answers questions based on uploaded PD
    ```
 
 ---
+## 🎬 Demo
 
+![image](https://github.com/user-attachments/assets/8da31da6-1af7-4bbb-b025-a76f2cb9d4fc)
+
+
+---
 ## 🛡️ Disclaimer
 
 This project is for educational and prototyping purposes. It does not replace professional legal advice.
